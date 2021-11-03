@@ -1,7 +1,7 @@
 # Just another infoSec collection
 
 
-    Each section will have resources and tools to assist in your journey. If you have an awesome tool or some reading material, soft copy or hard, email me and I can put it on the list. Each of the tools are forked from their authors, so the credit is all theirs.
+    Each section will have resources and tools to assist in your journey.; If you have an awesome tool or some reading material, soft copy or hard, email me and I can put it on the list. Each of the tools are forked from their authors, so the credit is all theirs.
 
 
 
