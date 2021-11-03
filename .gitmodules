@@ -382,3 +382,6 @@
 [submodule "offensive/binary/Cminer"]
 	path = offensive/binary/Cminer
 	url = https://github.com/EgeBalci/Cminer.git
+[submodule "offensive/binary/mona"]
+	path = offensive/binary/mona
+	url = https://github.com/corelan/mona.git
