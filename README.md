@@ -2,7 +2,7 @@
 
 Each section will have resources and tools to assist in your journey. If you have an awesome tool or some reading material, soft copy or hard, email me and I can put it on the list. Each of the tools are forked from their authors, so the credit is all theirs.
 
-## to-do add books
+## to-do add books, need to go through wikileaks tools such as the vault
 
 
 # Table of contents
@@ -51,7 +51,9 @@ Each section will have resources and tools to assist in your journey. If you hav
 - ROPgadget
 - Shellcode-Injection-Techniques
 - shellcode_retriever
-- mona.py                               
+- mona.py  
+- ghidra      
+- awesome-exploit-development                       
 
 ### [blackhat-arsenal-tools](./offense/blackhat-arsenal-tools)
 
@@ -135,6 +137,7 @@ If you dont know this alrady edb has a ton of [papers](https://www.exploit-db.co
 - Ninjasploit
 - PowerSploit
 - rsg
+- GTFOBins
 
 
 ### [framework](./offense/framework)
@@ -255,7 +258,7 @@ Once I find the resource for those projects, I'll update the list
 - pydebug
 
 
-### [traverse](./offense/traverse)
+### [traverse/pivot](./offense/traverse)
 
 **Tools**
 - pwncat
@@ -285,7 +288,9 @@ Once I find the resource for those projects, I'll update the list
 
 ### [POC||GTFO](./offense/POC)
 
-This is a great series of papers, that are free online or come in a hard copy. Extremely enjoyable and thought provoking.
+This is a great series of papers, that are free online or come in a hard copy. Extremely enjoyable and thought provoking. If you haven't read them, you should.
+
+I havent done it yet but some of their pdfs can be can be turned into operating systems along with some other programs.
 
 
 

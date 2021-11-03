@@ -385,3 +385,24 @@
 [submodule "offensive/binary/mona"]
 	path = offensive/binary/mona
 	url = https://github.com/corelan/mona.git
+[submodule "offensive/OSCP/OSCP-note"]
+	path = offensive/OSCP/OSCP-note
+	url = https://github.com/s0wr0b1ndef/OSCP-note.git
+[submodule "offensive/OSCP/notes"]
+	path = offensive/OSCP/notes
+	url = https://github.com/guifre/notes.git
+[submodule "offensive/exploitation/GTFOBins.github.io"]
+	path = offensive/exploitation/GTFOBins.github.io
+	url = https://github.com/GTFOBins/GTFOBins.github.io.git
+[submodule "offensive/binary/ghidra"]
+	path = offensive/binary/ghidra
+	url = https://github.com/NationalSecurityAgency/ghidra.git
+[submodule "offensive/OSCP/CTF-notes"]
+	path = offensive/OSCP/CTF-notes
+	url = https://github.com/Shiva108/CTF-notes.git
+[submodule "offensive/binary/awesome-exploit-development"]
+	path = offensive/binary/awesome-exploit-development
+	url = https://github.com/FabioBaroni/awesome-exploit-development.git
+[submodule "offensive/web/webshell"]
+	path = offensive/web/webshell
+	url = https://github.com/tennc/webshell.git
