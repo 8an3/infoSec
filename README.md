@@ -9,7 +9,7 @@ Each section will have resources and tools to assist in your journey. If you hav
 
 ## Defensive
 
-### [detection](offense/detection)
+### [detection](offdefensee/detection)
 
 **Tools**
 
