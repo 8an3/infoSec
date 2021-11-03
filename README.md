@@ -11,9 +11,9 @@
 
 #### Offensive
 
-##### [android](./offenseandroid
+##### [android](./offense/android)
 
-##### [binary](./offensebinary
+##### [binary](./offense/binary)
 
 ##### [blackhat-arsenal-tools](./offense/blackhat-arsenal-tools)
 
