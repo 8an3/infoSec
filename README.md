@@ -3,35 +3,36 @@
 
 Each section will have resources and tools to assist in your journey. If you have an awesome tool or some reading material, soft copy or hard, email me and I can put it on the list. Each of the tools are forked from their authors, so the credit is all theirs.
 
-The reading materials will be on the readme in each folder
+The reading materials will be on the readme in each folder.
 
 
 # Table of contents
 
-#### Defensive
+## Defensive
 
-##### [detection](./defensive/detection)
+### [detection](./defensive/detection)
 **Tools**
 APT-hunter
 awesome-threat-intelleigence
 DeepBlueCLI
-##### [IncResp](./defensive/IncResponse)
 
+### [IncResp](./defensive/IncResponse)
+awesome-incident-response
   
 
-#### Offensive
+## Offensive
 
-##### [android](./offense/android)
+### [android](./offense/android)
 
-##### [binary](./offense/binary)
+### [binary](./offense/binary)
 
-##### [blackhat-arsenal-tools](./offense/blackhat-arsenal-tools)
+### [blackhat-arsenal-tools](./offense/blackhat-arsenal-tools)
 
-##### [bluetooth](./offense/bluetooth)
+### [bluetooth](./offense/bluetooth)
 
-##### [botTech](./offense/botTech)
+### [botTech](./offense/botTech)
 
-##### [cloud](./offense/cloud)
+### [cloud](./offense/cloud)
 
 ##### [courses](./offense/courses)
 
