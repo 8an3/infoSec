@@ -9,8 +9,9 @@
 
 
 ## General info
-just a collection of tools sorted nicely into submodules.
-Keeps it up
+just a collection of tools sorted nicely into submodules. Each module is the original author unless that person dropped the project.
+Keeps it up nice and easy to update once and a while --> 
+"https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules"
 
 
 
