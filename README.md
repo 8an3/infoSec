@@ -2,11 +2,38 @@
 
 ## Table of contents
 ### Defensive 
+detection
+inResp
 
 ### Offensive 
-
-
-
+android                                            
+binary                                           
+blackhat-arsenal-tools                                      
+bluetooth
+botTech
+cloud
+courses
+containers
+ctf
+database
+devTools
+exploitation
+framework
+hardware
+MA
+osint
+osScripts
+payloads
+password
+postExp
+redOps
+recon
+reports
+reversing
+traverse
+the-book-of-secret-knowledge
+wifi
+web
 
 ## General info
 just a collection of tools sorted nicely into submodules. Each module is the original author unless that person dropped the project.
