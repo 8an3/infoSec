@@ -37,8 +37,8 @@
 [submodule "offensive/exploitation/rsg"]
 	path = offensive/exploitation/rsg
 	url = https://github.com/mthbernardes/rsg.git
-[submodule "offensive/exploitation/cave_miner"]
-	path = offensive/exploitation/cave_miner
+[submodule "offensive/binary/cave_miner"]
+	path = offensive/binary/cave_miner
 	url = https://github.com/Antonin-Deniau/cave_miner.git
 [submodule "offensive/recon/linux-smart-enumeration"]
 	path = offensive/recon/linux-smart-enumeration
@@ -76,3 +76,48 @@
 [submodule "offensive/payloads/payloads"]
 	path = offensive/payloads/payloads
 	url = https://github.com/foospidy/payloads.git
+[submodule "offensive/osScripts/commando-vm"]
+	path = offensive/osScripts/commando-vm
+	url = https://github.com/AlexisAhmed/commando-vm.git
+[submodule "offensive/ctf/ctf-tools"]
+	path = offensive/ctf/ctf-tools
+	url = https://github.com/zardus/ctf-tools.git
+[submodule "offensive/payloads/fuzzdb"]
+	path = offensive/payloads/fuzzdb
+	url = https://github.com/fuzzdb-project/fuzzdb.git
+[submodule "offensive/binary/Buffer-Overflow-Exploit-Development-Practice"]
+	path = offensive/binary/Buffer-Overflow-Exploit-Development-Practice
+	url = https://github.com/freddiebarrsmith/Buffer-Overflow-Exploit-Development-Practice.git
+[submodule "offensive/courses/Resources-for-Beginner-Bug-Bounty-Hunters"]
+	path = offensive/courses/Resources-for-Beginner-Bug-Bounty-Hunters
+	url = https://github.com/AlexisAhmed/Resources-for-Beginner-Bug-Bounty-Hunters.git
+[submodule "offensive/courses/lpeworkshop"]
+	path = offensive/courses/lpeworkshop
+	url = https://github.com/sagishahar-zz/lpeworkshop.git
+[submodule "offensive/courses/Awesome-Red-Teaming"]
+	path = offensive/courses/Awesome-Red-Teaming
+	url = https://github.com/AlexisAhmed/Awesome-Red-Teaming.git
+[submodule "offensive/framework/Awesome-Red-Teaming"]
+	path = offensive/framework/Awesome-Red-Teaming
+	url = https://github.com/AlexisAhmed/Awesome-Red-Teaming.git
+[submodule "offensive/database/exploitdb"]
+	path = offensive/database/exploitdb
+	url = https://github.com/offensive-security/exploitdb.git
+[submodule "offensive/payloads/SecLists"]
+	path = offensive/payloads/SecLists
+	url = https://github.com/danielmiessler/SecLists.git
+[submodule "offensive/blackhat-arsenal-tools"]
+	path = offensive/blackhat-arsenal-tools
+	url = https://github.com/toolswatch/blackhat-arsenal-tools.git
+[submodule "offensive/exploitation/msfpc"]
+	path = offensive/exploitation/msfpc
+	url = https://github.com/g0tmi1k/msfpc.git
+[submodule "offensive/web/FinalRecon"]
+	path = offensive/web/FinalRecon
+	url = https://github.com/thewhiteh4t/FinalRecon.git
+[submodule "offensive/postExp/GTFOBins.github.io"]
+	path = offensive/postExp/GTFOBins.github.io
+	url = https://github.com/GTFOBins/GTFOBins.github.io.git
+[submodule "offensive/binary/awesome-malware-analysis"]
+	path = offensive/binary/awesome-malware-analysis
+	url = https://github.com/rshipp/awesome-malware-analysis.git
