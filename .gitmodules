@@ -1,0 +1,81 @@
+[submodule "offensive/osScripts/flare-vm"]
+	path = offensive/osScripts/flare-vm
+	url = https://github.com/mandiant/flare-vm.git
+[submodule "offensive/exploitation/pwntools"]
+	path = offensive/exploitation/pwntools
+	url = https://github.com/Gallopsled/pwntools.git
+[submodule "offensive/bluetooth/WHID"]
+	path = offensive/bluetooth/WHID
+	url = https://github.com/whid-injector/WHID.git
+[submodule "offensive/courses/computer-science"]
+	path = offensive/courses/computer-science
+	url = https://github.com/ossu/computer-science.git
+[submodule "offensive/courses/open-source-cs"]
+	path = offensive/courses/open-source-cs
+	url = https://github.com/ForrestKnight/open-source-cs.git
+[submodule "offensive/exploitation/MalwareSourceCode"]
+	path = offensive/exploitation/MalwareSourceCode
+	url = https://github.com/vxunderground/MalwareSourceCode.git
+[submodule "offensive/exploitation/PowerSploit"]
+	path = offensive/exploitation/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "offensive/reversing/mona"]
+	path = offensive/reversing/mona
+	url = https://github.com/corelan/mona.git
+[submodule "offensive/wifi/ESPloitV2"]
+	path = offensive/wifi/ESPloitV2
+	url = https://github.com/exploitagency/ESPloitV2.git
+[submodule "offensive/postExp/Empire"]
+	path = offensive/postExp/Empire
+	url = https://github.com/EmpireProject/Empire.git
+[submodule "offensive/web/Web-Shells"]
+	path = offensive/web/Web-Shells
+	url = https://github.com/TheBinitGhimire/Web-Shells.git
+[submodule "offensive/exploitation/expdevBadChars"]
+	path = offensive/exploitation/expdevBadChars
+	url = https://github.com/mgeeky/expdevBadChars.git
+[submodule "offensive/exploitation/rsg"]
+	path = offensive/exploitation/rsg
+	url = https://github.com/mthbernardes/rsg.git
+[submodule "offensive/exploitation/cave_miner"]
+	path = offensive/exploitation/cave_miner
+	url = https://github.com/Antonin-Deniau/cave_miner.git
+[submodule "offensive/recon/linux-smart-enumeration"]
+	path = offensive/recon/linux-smart-enumeration
+	url = https://github.com/diego-treitos/linux-smart-enumeration.git
+[submodule "offensive/hardware/The-Hackers-Hardware-Toolkit"]
+	path = offensive/hardware/The-Hackers-Hardware-Toolkit
+	url = https://github.com/yadox666/The-Hackers-Hardware-Toolkit.git
+[submodule "offensive/courses/ruby"]
+	path = offensive/courses/ruby
+	url = https://github.com/training-mode/ruby.git
+[submodule "offensive/exploitation/metasploit-framework"]
+	path = offensive/exploitation/metasploit-framework
+	url = https://github.com/rapid7/metasploit-framework.git
+[submodule "offensive/the-book-of-secret-knowledge"]
+	path = offensive/the-book-of-secret-knowledge
+	url = https://github.com/trimstray/the-book-of-secret-knowledge.git
+[submodule "offensive/web/OWASP-Testing-Guide-v5"]
+	path = offensive/web/OWASP-Testing-Guide-v5
+	url = https://github.com/AlexisAhmed/OWASP-Testing-Guide-v5.git
+[submodule "offensive/web/juice-shop"]
+	path = offensive/web/juice-shop
+	url = https://github.com/juice-shop/juice-shop.git
+[submodule "offensive/reports/Serpico"]
+	path = offensive/reports/Serpico
+	url = https://github.com/SerpicoProject/Serpico.git
+[submodule "offensive/courses/Complete-Python-3-Bootcamp"]
+	path = offensive/courses/Complete-Python-3-Bootcamp
+	url = https://github.com/Pierian-Data/Complete-Python-3-Bootcamp.git
+[submodule "offensive/recon/LinEnum"]
+	path = offensive/recon/LinEnum
+	url = https://github.com/rebootuser/LinEnum.git
+[submodule "offensive/ctf/awesome-ctf"]
+	path = offensive/ctf/awesome-ctf
+	url = https://github.com/apsdehal/awesome-ctf.git
+[submodule "offensive/payloads/payloads"]
+	path = offensive/payloads/payloads
+	url = https://github.com/foospidy/payloads.git
+[submodule "offensive/payloads/PayloadsAllTheThings"]
+	path = offensive/payloads/PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
