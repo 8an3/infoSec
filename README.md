@@ -28,7 +28,7 @@ Each section will have resources and tools to assist in your journey. If you hav
 **Tools**
 - bazzar
 
-### [binary](./offense/binary)
+### [binary](offensive/binary)
 
 **Tools**
 - awesome-malware-analysis
@@ -55,29 +55,29 @@ Each section will have resources and tools to assist in your journey. If you hav
 - ghidra      
 - awesome-exploit-development                       
 
-### [blackhat-arsenal-tools](./offense/blackhat-arsenal-tools)
+### [blackhat-arsenal-tools](offensive/blackhat-arsenal-tools)
 
 This is a list of all the tools that authors wanted to share that have been demoed at the conf.
 
-### [bluetooth](./offense/bluetooth)
+### [bluetooth](offensive/bluetooth)
 
 **Tools**
 - WHID
 
-### [botTech](./offense/botTech)
+### [botTech](offensive/botTech)
 
 **Tools**
 - P_Botnet
 - proxycannon-ng
 
 
-### [cloud](./offense/cloud)
+### [cloud](offensive/cloud)
 
 **Tools**
 - cloud_enum
 - CloudPentestCheatsheets
 
-### [courses](./offense/courses)
+### [courses](offensive/courses)
 
 **Tools**
 - Awesome-Fuzzing
@@ -97,19 +97,19 @@ This is a list of all the tools that authors wanted to share that have been demo
 - ruby
 
 
-### [containers](./offense/containers)
+### [containers](offensive/containers)
 
 **Tools**
 - container_sec_workstation
 
-### [ctf](./offense/ctf)
+### [ctf](offensive/ctf)
 
 **Tools**
 - awesome-ctf
 - ctf-tools
  
 
-### [database](./offense/database)
+### [database](offensive/database)
 
 **Tools**
 - exploitdb
@@ -119,13 +119,13 @@ This is a list of all the tools that authors wanted to share that have been demo
 If you dont know this alrady edb has a ton of [papers](https://www.exploit-db.com/papers), [shellcodes](https://www.exploit-db.com/shellcodes) and more.
 
 
-### [devTools](./offense/devTools)
+### [devTools](offensive/devTools)
 
 **Tools**
 - impacket
 
 
-### [exploitation](./offense/exploitation)
+### [exploitation](offensive/exploitation)
 
 **Tools**
 - byt3bl33d3r-CrackMapExec
@@ -140,14 +140,14 @@ If you dont know this alrady edb has a ton of [papers](https://www.exploit-db.co
 - GTFOBins
 
 
-### [framework](./offense/framework)
+### [framework](offensive/framework)
 
 **Tools**
 - Awesome-Red-Teaming
 - owtf
 
 
-### [hardware](./offense/hardware)
+### [hardware](offensive/hardware)
 
 **Tools**
 - [Great Scott Gadgets](https://greatscottgadgets.com/)   
@@ -158,12 +158,14 @@ Great Scott sells some awesome hardware but this is the one category where you s
 I've built all the products that Hak5 offers from scratch, those were fun projects.
 Once I find the resource for those projects, I'll update the list
 
-### [MA](./offense/MA)
+### [MA](offensive/MA)
 
 **Tools**
 - Malware-Analysis-Training
 
-### [osint](./offense/osint)
+## [OSCP](offensive/OSCP)
+
+### [osint](offensive/osint)
 
 **Tools**
 - gitleaks
@@ -173,7 +175,7 @@ Once I find the resource for those projects, I'll update the list
 - spiderfoot
 
 
-### [osScripts](./offense/osScripts)
+### [osScripts](offensive/osScripts)
 
 **Tools**
 - commando-vm
@@ -181,7 +183,7 @@ Once I find the resource for those projects, I'll update the list
 - kali-setup-script
 
 
-### [payloads](./offense/payloads)
+### [payloads](offensive/payloads)
 
 **Tools**
 - fuzzdb
@@ -192,7 +194,7 @@ Once I find the resource for those projects, I'll update the list
 - SecLists
 
 
-### [password](./offense/password)
+### [password](offensive/password)
 
 **Tools**
 - credshed
@@ -201,7 +203,7 @@ Once I find the resource for those projects, I'll update the list
 - passphrase-wordlist
 
 
-### [postExp](./offense/postExp)
+### [postExp](offensive/postExp)
 
 **Tools**
 - Active-Directory-Exploitation-Cheat-Sheet
@@ -227,14 +229,14 @@ Once I find the resource for those projects, I'll update the list
 - WinPwnage
 
 
-### [redOps](./offense/redOps)
+### [redOps](offensive/redOps)
 
 **Tools**
 - C3
 - RedELK
 
 
-### [recon/enum](./offense/recon)
+### [recon/enum](offensive/recon)
 
 **Tools**
 - LinEnum
@@ -243,7 +245,7 @@ Once I find the resource for those projects, I'll update the list
 - TREVORspray
 
 
-### [reports](./offense/reports)
+### [reports](offensive/reports)
 
 **Tools**
 - enter_the_matrix
@@ -251,19 +253,19 @@ Once I find the resource for those projects, I'll update the list
 - writehat
 
 
-### [reversing](./offense/reversing)
+### [reversing](offensive/reversing)
 
 **Tools**
 - mona
 - pydebug
 
 
-### [traverse/pivot](./offense/traverse)
+### [traverse/pivot](offensive/traverse)
 
 **Tools**
 - pwncat
 
-### [the-book-of-secret-knowledge](./offense/the-book-of-secret-knowledge)
+### [the-book-of-secret-knowledge](offensive/the-book-of-secret-knowledge)
 
 ##### [wifi](./offense/wifi)
 
@@ -272,7 +274,7 @@ Once I find the resource for those projects, I'll update the list
 - PRISM-AP
 
 
-### [web](./offense/web)
+### [web](offensive/web)
 
 **Tools**
 - evilginx2
@@ -286,7 +288,7 @@ Once I find the resource for those projects, I'll update the list
 - Web-Shells
 - webspray
 
-### [POC||GTFO](./offense/POC)
+### [POC||GTFO](offensive/POCorGTFO)
 
 This is a great series of papers, that are free online or come in a hard copy. Extremely enjoyable and thought provoking. If you haven't read them, you should.
 
