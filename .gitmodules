@@ -76,6 +76,3 @@
 [submodule "offensive/payloads/payloads"]
 	path = offensive/payloads/payloads
 	url = https://github.com/foospidy/payloads.git
-[submodule "offensive/payloads/PayloadsAllTheThings"]
-	path = offensive/payloads/PayloadsAllTheThings
-	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
