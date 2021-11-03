@@ -9,7 +9,7 @@ Each section will have resources and tools to assist in your journey. If you hav
 
 ## Defensive
 
-### [detection](offdefensee/detection)
+### [detection](defensive/detection)
 
 **Tools**
 
@@ -17,13 +17,13 @@ Each section will have resources and tools to assist in your journey. If you hav
 - awesome-threat-intelleigence
 - DeepBlueCLI
 
-### [IncResp](./defensive/IncResponse)
+### [IncResp](defensive/incResp)
 
 - awesome-incident-response
 
 ## Offensive
 
-### [android](./offense/android)
+### [android](offensive/android)
 
 **Tools**
 - bazzar
