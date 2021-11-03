@@ -121,3 +121,237 @@
 [submodule "offensive/binary/awesome-malware-analysis"]
 	path = offensive/binary/awesome-malware-analysis
 	url = https://github.com/rshipp/awesome-malware-analysis.git
+[submodule "offensive/framework/owtf"]
+	path = offensive/framework/owtf
+	url = https://github.com/owtf/owtf.git
+[submodule "offensive/payloads/IntruderPayloads"]
+	path = offensive/payloads/IntruderPayloads
+	url = https://github.com/1N3/IntruderPayloads.git
+[submodule "offensive/Findsploit"]
+	path = offensive/Findsploit
+	url = https://github.com/1N3/Findsploit.git
+[submodule "offensive/wifi/PRISM-AP"]
+	path = offensive/wifi/PRISM-AP
+	url = https://github.com/1N3/PRISM-AP.git
+[submodule "offensive/postExp/PRISM-AP"]
+	path = offensive/postExp/PRISM-AP
+	url = https://github.com/1N3/PRISM-AP.git
+[submodule "offensive/postExp/PrivEsc"]
+	path = offensive/postExp/PrivEsc
+	url = https://github.com/1N3/PrivEsc.git
+[submodule "offensive/web/tbhm"]
+	path = offensive/web/tbhm
+	url = https://github.com/jhaddix/tbhm.git
+[submodule "offensive/binary/PwnAdventure3"]
+	path = offensive/binary/PwnAdventure3
+	url = https://github.com/LiveOverflow/PwnAdventure3.git
+[submodule "offensive/postExp/the-backdoor-factory"]
+	path = offensive/postExp/the-backdoor-factory
+	url = https://github.com/secretsquirrel/the-backdoor-factory.git
+[submodule "offensive/web/Ironsquirrel"]
+	path = offensive/web/Ironsquirrel
+	url = https://github.com/secretsquirrel/Ironsquirrel.git
+[submodule "offensive/binary/fido"]
+	path = offensive/binary/fido
+	url = https://github.com/secretsquirrel/fido.git
+[submodule "offensive/binary/shellcode_retriever"]
+	path = offensive/binary/shellcode_retriever
+	url = https://github.com/secretsquirrel/shellcode_retriever.git
+[submodule "offensive/postExp/BDFProxy"]
+	path = offensive/postExp/BDFProxy
+	url = https://github.com/secretsquirrel/BDFProxy.git
+[submodule "offensive/courses/Awesome-Fuzzing"]
+	path = offensive/courses/Awesome-Fuzzing
+	url = https://github.com/secfigo/Awesome-Fuzzing.git
+[submodule "offensive/reports/writehat"]
+	path = offensive/reports/writehat
+	url = https://github.com/blacklanternsecurity/writehat.git
+[submodule "offensive/osint/spiderfoot"]
+	path = offensive/osint/spiderfoot
+	url = https://github.com/smicallef/spiderfoot.git
+[submodule "offensive/osScripts/kali-setup-script"]
+	path = offensive/osScripts/kali-setup-script
+	url = https://github.com/blacklanternsecurity/kali-setup-script.git
+[submodule "offensive/recon/TREVORspray"]
+	path = offensive/recon/TREVORspray
+	url = https://github.com/blacklanternsecurity/TREVORspray.git
+[submodule "offensive/recon/MANSPIDER"]
+	path = offensive/recon/MANSPIDER
+	url = https://github.com/blacklanternsecurity/MANSPIDER.git
+[submodule "offensive/reports/enter_the_matrix"]
+	path = offensive/reports/enter_the_matrix
+	url = https://github.com/blacklanternsecurity/enter_the_matrix.git
+[submodule "offensive/botTech/proxycannon-ng"]
+	path = offensive/botTech/proxycannon-ng
+	url = https://github.com/blacklanternsecurity/proxycannon-ng.git
+[submodule "offensive/web/webspray"]
+	path = offensive/web/webspray
+	url = https://github.com/blacklanternsecurity/webspray.git
+[submodule "offensive/password/credshed"]
+	path = offensive/password/credshed
+	url = https://github.com/blacklanternsecurity/credshed.git
+[submodule "offensive/postExp/KCMTicketFormatter"]
+	path = offensive/postExp/KCMTicketFormatter
+	url = https://github.com/blacklanternsecurity/KCMTicketFormatter.git
+[submodule "offensive/password/credshed-api"]
+	path = offensive/password/credshed-api
+	url = https://github.com/blacklanternsecurity/credshed-api.git
+[submodule "offensive/devTools/impacket"]
+	path = offensive/devTools/impacket
+	url = https://github.com/SecureAuthCorp/impacket.git
+[submodule "offensive/web/evilginx-setup-script"]
+	path = offensive/web/evilginx-setup-script
+	url = https://github.com/blacklanternsecurity/evilginx-setup-script.git
+[submodule "offensive/password/credshed-gui"]
+	path = offensive/password/credshed-gui
+	url = https://github.com/blacklanternsecurity/credshed-gui.git
+[submodule "offensive/web/evilginx2"]
+	path = offensive/web/evilginx2
+	url = https://github.com/kgretzky/evilginx2.git
+[submodule "offensive/postExp/PowerSploit"]
+	path = offensive/postExp/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "offensive/postExp/fulcrom"]
+	path = offensive/postExp/fulcrom
+	url = https://github.com/blacklanternsecurity/fulcrom.git
+[submodule "offensive/binary/nixawk-awesome-windows-exploitation"]
+	path = offensive/binary/nixawk-awesome-windows-exploitation
+	url = https://github.com/r3p3r/nixawk-awesome-windows-exploitation.git
+[submodule "offensive/binary/FuzzLabs"]
+	path = offensive/binary/FuzzLabs
+	url = https://github.com/jack51706/FuzzLabs.git
+[submodule "offensive/binary/pydbg"]
+	path = offensive/binary/pydbg
+	url = https://github.com/OpenRCE/pydbg.git
+[submodule "offensive/MA/Malware-Analysis-Training"]
+	path = offensive/MA/Malware-Analysis-Training
+	url = https://github.com/OpenRCE/Malware-Analysis-Training.git
+[submodule "offensive/binary/OffensiveRust"]
+	path = offensive/binary/OffensiveRust
+	url = https://github.com/trickster0/OffensiveRust.git
+[submodule "offensive/binary/peda"]
+	path = offensive/binary/peda
+	url = https://github.com/longld/peda.git
+[submodule "offensive/binary/ROPgadget"]
+	path = offensive/binary/ROPgadget
+	url = https://github.com/JonathanSalwan/ROPgadget.git
+[submodule "offensive/database/windows-kernel-exploits"]
+	path = offensive/database/windows-kernel-exploits
+	url = https://github.com/SecWiki/windows-kernel-exploits.git
+[submodule "offensive/postExp/softsteps"]
+	path = offensive/postExp/softsteps
+	url = https://github.com/trickster0/softsteps.git
+[submodule "offensive/botTech/P_Botnet"]
+	path = offensive/botTech/P_Botnet
+	url = https://github.com/trickster0/P_Botnet.git
+[submodule "offensive/Ninja"]
+	path = offensive/Ninja
+	url = https://github.com/ahmedkhlief/Ninja.git
+[submodule "defensive/detection/APT-Hunter"]
+	path = defensive/detection/APT-Hunter
+	url = https://github.com/ahmedkhlief/APT-Hunter.git
+[submodule "defensive/incResp/awesome-incident-response"]
+	path = defensive/incResp/awesome-incident-response
+	url = https://github.com/meirwah/awesome-incident-response.git
+[submodule "defensive/detection/DeepBlueCLI"]
+	path = defensive/detection/DeepBlueCLI
+	url = https://github.com/sans-blue-team/DeepBlueCLI.git
+[submodule "offensive/courses/Red-Teaming-Toolkit"]
+	path = offensive/courses/Red-Teaming-Toolkit
+	url = https://github.com/infosecn1nja/Red-Teaming-Toolkit.git
+[submodule "offensive/postExp/AD-Attack-Defense"]
+	path = offensive/postExp/AD-Attack-Defense
+	url = https://github.com/infosecn1nja/AD-Attack-Defense.git
+[submodule "offensive/redOps/C3"]
+	path = offensive/redOps/C3
+	url = https://github.com/FSecureLABS/C3.git
+[submodule "offensive/binary/KernelFuzzer"]
+	path = offensive/binary/KernelFuzzer
+	url = https://github.com/FSecureLABS/KernelFuzzer.git
+[submodule "offensive/exploitation/Ninjasploit"]
+	path = offensive/exploitation/Ninjasploit
+	url = https://github.com/FSecureLABS/Ninjasploit.git
+[submodule "defensive/detection/awesome-threat-intelligence"]
+	path = defensive/detection/awesome-threat-intelligence
+	url = https://github.com/hslatman/awesome-threat-intelligence.git
+[submodule "offensive/courses/Red-Team-Infrastructure-Wiki"]
+	path = offensive/courses/Red-Team-Infrastructure-Wiki
+	url = https://github.com/infosecn1nja/Red-Team-Infrastructure-Wiki.git
+[submodule "offensive/containers/container_sec_workstation"]
+	path = offensive/containers/container_sec_workstation
+	url = https://github.com/raesene/container_sec_workstation.git
+[submodule "offensive/postExp/TokenPlayer"]
+	path = offensive/postExp/TokenPlayer
+	url = https://github.com/S1ckB0y1337/TokenPlayer.git
+[submodule "offensive/postExp/Active-Directory-Exploitation-Cheat-Sheet"]
+	path = offensive/postExp/Active-Directory-Exploitation-Cheat-Sheet
+	url = https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet.git
+[submodule "offensive/courses/Pentest-Tools"]
+	path = offensive/courses/Pentest-Tools
+	url = https://github.com/S3cur3Th1sSh1t/Pentest-Tools.git
+[submodule "offensive/postExp/WinPwn"]
+	path = offensive/postExp/WinPwn
+	url = https://github.com/S3cur3Th1sSh1t/WinPwn.git
+[submodule "offensive/postExp/Lenum"]
+	path = offensive/postExp/Lenum
+	url = https://github.com/trickster0/Lenum.git
+[submodule "offensive/postExp/Creds"]
+	path = offensive/postExp/Creds
+	url = https://github.com/S3cur3Th1sSh1t/Creds.git
+[submodule "offensive/postExp/MailSniper"]
+	path = offensive/postExp/MailSniper
+	url = https://github.com/dafthack/MailSniper.git
+[submodule "offensive/cloud/CloudPentestCheatsheets"]
+	path = offensive/cloud/CloudPentestCheatsheets
+	url = https://github.com/dafthack/CloudPentestCheatsheets.git
+[submodule "offensive/osint/gitleaks"]
+	path = offensive/osint/gitleaks
+	url = https://github.com/zricethezav/gitleaks.git
+[submodule "offensive/cloud/cloud_enum"]
+	path = offensive/cloud/cloud_enum
+	url = https://github.com/initstring/cloud_enum.git
+[submodule "offensive/password/passphrase-wordlist"]
+	path = offensive/password/passphrase-wordlist
+	url = https://github.com/initstring/passphrase-wordlist.git
+[submodule "offensive/osint/gitrob"]
+	path = offensive/osint/gitrob
+	url = https://github.com/codeEmitter/gitrob.git
+[submodule "offensive/binary/Kernel-Bridge"]
+	path = offensive/binary/Kernel-Bridge
+	url = https://github.com/HoShiMin/Kernel-Bridge.git
+[submodule "offensive/traverse/pwncat"]
+	path = offensive/traverse/pwncat
+	url = https://github.com/S1ckB0y1337/pwncat.git
+[submodule "offensive/redOps/RedELK"]
+	path = offensive/redOps/RedELK
+	url = https://github.com/outflanknl/RedELK.git
+[submodule "offensive/binary/awesome_windows_logical_bugs"]
+	path = offensive/binary/awesome_windows_logical_bugs
+	url = https://github.com/sailay1996/awesome_windows_logical_bugs.git
+[submodule "offensive/postExp/PEASS-ng"]
+	path = offensive/postExp/PEASS-ng
+	url = https://github.com/carlospolop/PEASS-ng.git
+[submodule "offensive/courses/Cheatsheet-God"]
+	path = offensive/courses/Cheatsheet-God
+	url = https://github.com/OlivierLaflamme/Cheatsheet-God.git
+[submodule "offensive/binary/Exploit-Development"]
+	path = offensive/binary/Exploit-Development
+	url = https://github.com/connormcgarr/Exploit-Development.git
+[submodule "offensive/postExp/WinPwnage"]
+	path = offensive/postExp/WinPwnage
+	url = https://github.com/rootm0s/WinPwnage.git
+[submodule "offensive/postExp/UACME"]
+	path = offensive/postExp/UACME
+	url = https://github.com/hfiref0x/UACME.git
+[submodule "offensive/postExp/UUB"]
+	path = offensive/postExp/UUB
+	url = https://github.com/rootm0s/UUB.git
+[submodule "offensive/osint/LinkedInt"]
+	path = offensive/osint/LinkedInt
+	url = https://github.com/mdsecactivebreach/LinkedInt.git
+[submodule "offensive/postExp/UDPlant"]
+	path = offensive/postExp/UDPlant
+	url = https://github.com/trickster0/UDPlant.git
+[submodule "offensive/courses/KingOfBugBountyTips"]
+	path = offensive/courses/KingOfBugBountyTips
+	url = https://github.com/KingOfBugbounty/KingOfBugBountyTips.git
