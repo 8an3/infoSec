@@ -12,9 +12,9 @@ The reading materials will be on the readme in each folder.
 
 ### [detection](./defensive/detection)
 **Tools**
-APT-hunter
-awesome-threat-intelleigence
-DeepBlueCLI
+- APT-hunter
+- awesome-threat-intelleigence
+- DeepBlueCLI
 
 ### [IncResp](./defensive/IncResponse)
 awesome-incident-response
@@ -23,8 +23,30 @@ awesome-incident-response
 ## Offensive
 
 ### [android](./offense/android)
+- bazzar
 
 ### [binary](./offense/binary)
+awesome-malware-analysis
+awesome_windows_logical_bugs
+Buffer-Overflow-Exploit-Development-Practice
+cave_miner
+Cminer
+DInjector
+Exploit-Development
+fido
+FuzzLabs
+Kernel-Bridge
+KernelFuzzer
+nixawk-awesome-windows-exploitation
+OffensiveRust
+peda
+PwnAdventure3
+pwntools
+pydbg
+ROPgadget
+Shellcode-Injection-Techniques
+shellcode_retriever
+
 
 ### [blackhat-arsenal-tools](./offense/blackhat-arsenal-tools)
 
