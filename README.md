@@ -1,9 +1,6 @@
 # Just another infoSec collection
 
-
 Each section will have resources and tools to assist in your journey. If you have an awesome tool or some reading material, soft copy or hard, email me and I can put it on the list. Each of the tools are forked from their authors, so the credit is all theirs.
-
-The reading materials will be on the readme in each folder.
 
 
 # Table of contents
@@ -11,46 +8,57 @@ The reading materials will be on the readme in each folder.
 ## Defensive
 
 ### [detection](./defensive/detection)
+
 **Tools**
+
 - APT-hunter
 - awesome-threat-intelleigence
 - DeepBlueCLI
 
 ### [IncResp](./defensive/IncResponse)
+
 awesome-incident-response
-  
 
 ## Offensive
 
 ### [android](./offense/android)
+
+**Tools**
+
 - bazzar
 
 ### [binary](./offense/binary)
-awesome-malware-analysis
-awesome_windows_logical_bugs
-Buffer-Overflow-Exploit-Development-Practice
-cave_miner
-Cminer
-DInjector
-Exploit-Development
-fido
-FuzzLabs
-Kernel-Bridge
-KernelFuzzer
-nixawk-awesome-windows-exploitation
-OffensiveRust
-peda
-PwnAdventure3
-pwntools
-pydbg
-ROPgadget
-Shellcode-Injection-Techniques
-shellcode_retriever
 
+**Tools**
+- awesome-malware-analysis
+- awesome_windows_logical_bugs
+- Buffer-Overflow-Exploit-Development-Practice
+- cave_miner
+- Cminer
+- DInjector
+- Exploit-Development
+- fido
+- FuzzLabs
+- Kernel-Bridge
+- KernelFuzzer
+- nixawk-awesome-windows-exploitation
+- OffensiveRust
+- peda
+- PwnAdventure3
+- pwntools
+- pydbg
+- ROPgadget
+- Shellcode-Injection-Techniques
+- shellcode_retriever
 
 ### [blackhat-arsenal-tools](./offense/blackhat-arsenal-tools)
 
+This is a list of all the tools that authors wanted to share that have been demoed at the conf.
+
 ### [bluetooth](./offense/bluetooth)
+
+**Tools**
+WHID
 
 ### [botTech](./offense/botTech)
 
@@ -71,6 +79,11 @@ shellcode_retriever
 ##### [framework](./offense/framework)
 
 ##### [hardware](./offense/hardware)
+
+**Tools**
+[Great Scott](https://greatscottgadgets.com/)
+This 
+The-Hackers-Hardware-Toolkit
 
 ##### [MA](./offense/MA)
 
@@ -100,8 +113,6 @@ shellcode_retriever
 
 ##### [web](./offense/web)
 
-  
-
 ## General info
 
 just a collection of tools sorted nicely into submodules. Each module is the original author unless that person dropped the project.
@@ -110,18 +121,11 @@ Keeps it up nice and easy to update once and a while -->
 
 "https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules"
 
-  
-  
-  
-
 ## if you have trouble with the submodules
 
 https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
 https://mohsinmdl.github.io/git-guide-101/
-
-  
-  
 
 if you fuck up a module you need to go to --->
 
@@ -143,21 +147,22 @@ dont forget to change the .modules as well... dont know if that file actualy mak
 *traverse
 *the-book-of-secret-knowledge
 *wifi
-*web
+\*web
 
 ## General info
+
 just a collection of tools sorted nicely into submodules. Each module is the original author unless that person dropped the project.
-Keeps it up nice and easy to update once and a while --> 
+Keeps it up nice and easy to update once and a while -->
 "https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules"
 
-
-
 ## if you have trouble with the submodules
+
 https://git-scm.com/book/en/v2/Git-Tools-Submodules
 https://mohsinmdl.github.io/git-guide-101/
 
-
 if you fuck up a module you need to go to --->
-### infoSec/.git/modules/offensive 
+
+### infoSec/.git/modules/offensive
+
 change the config of each module to represent the place and/or proper source for fetch updated code, dont mess with other commands ive seen online dont work as well
 dont forget to change the .modules as well... dont know if that file actualy makes a difference though
