@@ -1,4 +1,11 @@
-## Table of contents
+# Just another infoSec collection
+
+
+    Each section will have resources and tools to assist in your journey. If you have an awesome tool or some reading material, soft copy or hard, email me and I can put it on the list. Each of the tools are forked from their authors, so the credit is all theirs.
+
+
+
+# Table of contents
 
 #### Defensive
 
@@ -19,51 +26,53 @@
 
 ##### [bluetooth](./offense/bluetooth)
 
-##### [botTech](./offense/)
+##### [botTech](./offense/botTech)
 
-##### [cloud](./offense/)
+##### [cloud](./offense/cloud)
 
-##### [courses](./offense/)
+##### [courses](./offense/courses)
 
-##### [containers](./offense/)
+##### [containers](./offense/containers)
 
-##### [ctf](./offense/)
+##### [ctf](./offense/ctf)
 
-##### [database](./offense/)
+##### [database](./offense/database)
 
-##### [devTools](./offense/)
+##### [devTools](./offense/devTools)
 
-##### [exploitation](./offense/)
+##### [exploitation](./offense/exploitation)
 
-##### [framework](./offense/)
+##### [framework](./offense/framework)
 
-##### [hardware](./offense/)
+##### [hardware](./offense/hardware)
 
-##### [MA](./offense/)
+##### [MA](./offense/MA)
 
-##### [osint](./offense/)
+##### [osint](./offense/osint)
 
-##### [osScripts](./offense/)
+##### [osScripts](./offense/osScripts)
 
-##### [payloads](./offense/)
+##### [payloads](./offense/payloads)
 
-##### [password](./offense/)
+##### [password](./offense/password)
 
-##### [postExp](./offense/)
+##### [postExp](./offense/postExp)
 
-##### [redOps](./offense/)
+##### [redOps](./offense/redOps)
 
-##### [recon](./offense/)
+##### [recon](./offense/recon)
 
-##### [reports](./offense/)
+##### [reports](./offense/reports)
 
-##### [reversing](./offense/)
+##### [reversing](./offense/reversing)
 
-##### [traverse](./offense/)
+##### [traverse](./offense/traverse)
 
-##### the-book-of-secret-knowledge
-##### wifi
-##### web
+##### [the-book-of-secret-knowledge](./offense/the-book-of-secret-knowledge)
+
+##### [wifi](./offense/wifi)
+
+##### [web](./offense/web)
 
   
 
