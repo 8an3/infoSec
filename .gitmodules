@@ -1,8 +1,8 @@
 [submodule "offensive/osScripts/flare-vm"]
 	path = offensive/osScripts/flare-vm
 	url = https://github.com/mandiant/flare-vm.git
-[submodule "offensive/exploitation/pwntools"]
-	path = offensive/exploitation/pwntools
+[submodule "offensive/binary/pwntools"]
+	path = offensive/binary/pwntools
 	url = https://github.com/Gallopsled/pwntools.git
 [submodule "offensive/bluetooth/WHID"]
 	path = offensive/bluetooth/WHID
@@ -355,3 +355,30 @@
 [submodule "offensive/courses/KingOfBugBountyTips"]
 	path = offensive/courses/KingOfBugBountyTips
 	url = https://github.com/KingOfBugbounty/KingOfBugBountyTips.git
+[submodule "offensive/payloads/KingRecon_DOD"]
+	path = offensive/payloads/KingRecon_DOD
+	url = https://github.com/KingOfBugbounty/KingRecon_DOD.git
+[submodule "offensive/android/bazaar"]
+	path = offensive/android/bazaar
+	url = https://github.com/Pithus/bazaar.git
+[submodule "offensive/courses/Fuzzing101"]
+	path = offensive/courses/Fuzzing101
+	url = https://github.com/jack51706/Fuzzing101.git
+[submodule "offensive/binary/Shellcode-Injection-Techniques"]
+	path = offensive/binary/Shellcode-Injection-Techniques
+	url = https://github.com/plackyhacker/Shellcode-Injection-Techniques.git
+[submodule "offensive/binary/DInjector"]
+	path = offensive/binary/DInjector
+	url = https://github.com/snovvcrash/DInjector.git
+[submodule "offensive/courses/nixawk-awesome-windows-exploitation"]
+	path = offensive/courses/nixawk-awesome-windows-exploitation
+	url = https://github.com/r3p3r/nixawk-awesome-windows-exploitation.git
+[submodule "offensive/exploitation/byt3bl33d3r-CrackMapExec"]
+	path = offensive/exploitation/byt3bl33d3r-CrackMapExec
+	url = https://github.com/r3p3r/byt3bl33d3r-CrackMapExec.git
+[submodule "offensive/osint/jivoi-awesome-osint"]
+	path = offensive/osint/jivoi-awesome-osint
+	url = https://github.com/r3p3r/jivoi-awesome-osint.git
+[submodule "offensive/binary/Cminer"]
+	path = offensive/binary/Cminer
+	url = https://github.com/EgeBalci/Cminer.git
