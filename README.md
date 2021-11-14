@@ -335,3 +335,6 @@ if you fuck up a module you need to go to --->
 
 change the config of each module to represent the place and/or proper source for fetch updated code, dont mess with other commands ive seen online dont work as well
 dont forget to change the .modules as well... dont know if that file actualy makes a difference though
+
+
+https://0x00sec.org/t/services-tools-wiki/2123
